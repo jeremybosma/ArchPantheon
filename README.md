@@ -45,7 +45,7 @@ Then when you reboot you’ll be prompted a login screen. In the topbar you will
 <img src="https://www.debugpoint.com/wp-content/uploads/2021/02/Login-screen-Pantheon-in-Arch.jpg">
 
 ## Common error
-When you reboot you might be prompted with a lightdm failed to start. You will have to install or build plymouth and then run sudo pacman -S lightdm  again. Don’t remove the package before that or something it just downloads dependencies again. That’s how i fixed it. 
+When you reboot you might be prompted with a lightdm failed to start. You will have to install or build plymouth and then run `sudo pacman -S lightdm`  again. Don’t remove the package before that or something it just downloads dependencies again. That’s how i fixed it. 
 
 #### This should also work on other arch based distro's like artix but with most things being called different.
 ##### Repository created using own experience and help of the debugpoint blog post about it.
