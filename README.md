@@ -1,3 +1,5 @@
+# NEW: [ARCHPANTHEON INSTALLER (WIFI-REQUIRED)](https://github.com/Jecta/ArchPantheon/blob/main/installer.sh)
+
 # Installing Arch:
 Get the Arch basic iso and boot it from usb you need to use `iwctl`and in there run `station wlan0 connect SSID` For your information `SSID is your wifi name.` you can see this on for example your phone. Use the key combination `CTRL + C` to get out of the iwctl.
 
