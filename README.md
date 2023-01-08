@@ -2,7 +2,7 @@
 
 Welcome to the guide for installing Arch Linux with the Pantheon desktop environment!
 
-Before we begin, make sure you have the Arch Linux basic iso and have booted it from a USB drive.
+Before we begin, make sure you have the Arch Linux base iso and have booted it from a USB drive.
 
 To connect to your WiFi network, use the `iwctl` command and enter `station wlan0 connect SSID`, replacing "SSID" with the name of your WiFi network. You can typically find this name (also known as the SSID) on a device connected to the network, such as your phone. If you need to exit `iwctl`, use the key combination `CTRL + C`.
 
