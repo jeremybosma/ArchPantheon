@@ -1,4 +1,4 @@
-# NEW: [ARCHPANTHEON INSTALLER (WIFI-REQUIRED)](https://github.com/Jecta/ArchPantheon/blob/main/installer.sh)
+######## NEW: [ARCHPANTHEON INSTALLER (WIFI-REQUIRED)](https://github.com/Jecta/ArchPantheon/blob/main/installer.sh)
 
 Welcome to the guide for installing Arch Linux with the Pantheon desktop environment!
 
